@@ -1,3 +1,3 @@
-a=333
-b=1
-print(a+b)
+a=3
+b=6
+print(a*b)
